@@ -1,6 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 import { Nav, Platform } from 'ionic-angular';
 import { AppVersion } from '@ionic-native/app-version';
+
 import { StatusBar } from '@ionic-native/status-bar';
 
 import * as Raven from 'raven-js';
